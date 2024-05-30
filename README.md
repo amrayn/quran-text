@@ -20,7 +20,7 @@
   "transliteration": "Al-Fatihah",
   "type": "meccan",
   "total_verses": 7,
-  "verses": [ ... ]
+  "verses": [ ]
 }
 ```
 
